@@ -1,46 +1,29 @@
 {
-  "Empresas": [
-    {
-      "id": 1,
-      "nome": "Tech Solutions LTDA",
-      "cnpj": "12.345.678/0001-90"
-    },
-    {
-      "id": 2,
-      "nome": "InovaCorp S.A.",
-      "cnpj": "98.765.432/0001-01"
-    }
-  ],
   "Users": [
     {
-      "id": 1,
-      "nome": "João Silva",
-      "email": "joao.silva@example.com",
-      "senha": "senha123"
+        "id": 1,
+        "userNome": "joao_silva",
+        "userPassword": "senha123"
     },
     {
-      "id": 2,
-      "nome": "Maria Oliveira",
-      "email": "maria.oliveira@example.com",
-      "senha": "senha456"
+        "id": 2,
+        "userNome": "maria_oliveira",
+        "userPassword": "123senha"
     },
     {
-      "id": 3,
-      "nome": "Pedro Santos",
-      "email": "pedro.santos@example.com",
-      "senha": "senha789"
+        "id": 3,
+        "userNome": "pedro_souza",
+        "userPassword": "abc12345"
     },
     {
-      "id": 4,
-      "nome": "Ana Costa",
-      "email": "ana.costa@example.com",
-      "senha": "senha321"
+        "id": 4,
+        "userNome": "ana_pereira",
+        "userPassword": "pass456"
     },
     {
-      "id": 5,
-      "nome": "Lucas Almeida",
-      "email": "lucas.almeida@example.com",
-      "senha": "senha654"
+        "id": 5,
+        "userNome": "carla_santos",
+        "userPassword": "senhaSegura789"
     }
   ]
 }
